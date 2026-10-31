@@ -26,8 +26,8 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
   - Etiqueta de apertura `<p>`, de cierre `</p>`, y etiquetas vacías como `<img>`
   - Los atributos dan información extra: `<html lang="es">`
   - Toda etiqueta que se abre debe cerrarse
-- **Práctica**: [Vamos a practicar!](linlEditor) 👈 **¡No necesitas instalar nada!**
-  - ¿Prefieres otro editor? Copia el código de `starter-files/leccion-02` en [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
+- **Práctica**: [Vamos a practicar!](https://jsfiddle.net/czg03pou/3/) 👈 **¡No necesitas instalar nada!**
+  - ¿Prefieres otro editor? Copia el código de `starter-files/leccion-02` en [JSFiddle](https://jsfiddle.net/), [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
 
 ### Lección 3: Llenando la página (10 minutos)
 
@@ -39,8 +39,8 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
   - Imágenes: `<img src="..." alt="...">`
   - Enlaces: `<a href="...">texto</a>`
   - El atributo `alt` en imágenes es importante para la accesibilidad
-- **Práctica**: [Vamos a practicar!](linkEditor) 👈 **¡Empieza al instante!**
-  - ¿Prefieres otro editor? Copia el código de `starter-files/leccion-03` en [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
+- **Práctica**: [Vamos a practicar!](https://jsfiddle.net/czg03pou/4/) 👈 **¡Empieza al instante!**
+  - ¿Prefieres otro editor? Copia el código de `starter-files/leccion-03` en [JSFiddle](https://jsfiddle.net/), [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
 
 ### Lección 4: Dale estilo con CSS (9 minutos)
 
