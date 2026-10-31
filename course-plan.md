@@ -11,7 +11,7 @@ Este curso de 1 hora te enseña a crear tu propia página web desde cero usando 
 **💻 Editores en línea**: todas las prácticas vienen **precargadas en [JSFiddle](https://jsfiddle.net/)**: abres el enlace y el código ya está listo. No necesitas registrarte.
 Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/) (no necesita registro para practicar) o [Replit](https://replit.com/) (pide una cuenta gratuita). Solo copia el código de inicio desde la carpeta `starter-files` del repositorio.
 
-**📂 Repositorio de código fuente**: _(pegar aquí el enlace del repositorio de GitHub)_
+**📂 Repositorio de código fuente**: [https://github.com/1ASI0730-2620-16129-G2-DevTech/upc-pre-202620--1asi0730-16129-DevTech-course-plan/tree/main](https://github.com/1ASI0730-2620-16129-G2-DevTech/upc-pre-202620--1asi0730-16129-DevTech-course-plan/tree/main)
 
 ## Secuencia de Lecciones
 ### Lección 1: ¿Qué es un sitio web? (6 minutos)
@@ -19,6 +19,15 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 
 ### Lección 2: El esqueleto de una página (9 minutos)
 
+- **Descripción**: Aprende qué son las etiquetas, los elementos y los atributos, y arma la estructura básica que tiene toda página web. Se usa la analogía de un sándwich para entender cómo se abren y se cierran las etiquetas.
+- **Enlace**: [YouTube](LinkYoutube)
+- **Conceptos clave**:
+  - Estructura básica: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<title>`
+  - Etiqueta de apertura `<p>`, de cierre `</p>`, y etiquetas vacías como `<img>`
+  - Los atributos dan información extra: `<html lang="es">`
+  - Toda etiqueta que se abre debe cerrarse
+- **Práctica**: [Vamos a practicar!](linlEditor) 👈 **¡No necesitas instalar nada!**
+  - ¿Prefieres otro editor? Copia el código de `starter-files/leccion-02` en [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
 
 ### Lección 3: Llenando la página (10 minutos)
 
