@@ -31,6 +31,16 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 
 ### Lección 3: Llenando la página (10 minutos)
 
+- **Descripción**: Agrega contenido a tu página creando "Mis cosas favoritas": títulos de distintos tamaños, párrafos, listas con puntos y numeradas, una imagen desde internet y un enlace a otro sitio.
+- **Enlace**: [YouTube](LinkYoutube)
+- **Conceptos clave**:
+  - Títulos y párrafos: `<h1>` a `<h6>`, `<p>`
+  - Listas: `<ul>`, `<ol>`, `<li>`
+  - Imágenes: `<img src="..." alt="...">`
+  - Enlaces: `<a href="...">texto</a>`
+  - El atributo `alt` en imágenes es importante para la accesibilidad
+- **Práctica**: [Vamos a practicar!](linkEditor) 👈 **¡Empieza al instante!**
+  - ¿Prefieres otro editor? Copia el código de `starter-files/leccion-03` en [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
 
 ### Lección 4: Dale estilo con CSS (9 minutos)
 
