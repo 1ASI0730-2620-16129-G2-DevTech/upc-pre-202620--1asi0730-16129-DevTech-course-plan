@@ -60,4 +60,4 @@ Solo un navegador web (Chrome, Firefox, Safari o Edge) y un editor en línea gra
 
 ## Plan del curso
 
-Ver [course-plan](https://github.com/1ASI0730-2620-16129-G2-DevTech/upc-pre-202620--1asi0730-16129-DevTech-course-plan/blob/main/course-plan.md)
+Ver [course plan](https://github.com/1ASI0730-2620-16129-G2-DevTech/upc-pre-202620--1asi0730-16129-DevTech-course-plan/blob/main/course-plan.md)
