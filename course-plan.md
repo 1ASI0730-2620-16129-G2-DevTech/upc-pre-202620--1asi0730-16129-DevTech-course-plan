@@ -57,6 +57,12 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 
 ## Recursos Adicionales
 
+- **Código Fuente Completo**: [https://github.com/1ASI0730-2620-16129-G2-DevTech/upc-pre-202620--1asi0730-16129-DevTech-course-plan/tree/main](https://github.com/1ASI0730-2620-16129-G2-DevTech/upc-pre-202620--1asi0730-16129-DevTech-course-plan/tree/main)
+- **Archivos de práctica**: el código de inicio de cada lección está en la carpeta `starter-files` del repositorio y la solución en `completed-examples`. Úsalos si prefieres trabajar en CodePen o Replit.
+- **Para seguir aprendiendo**: [MDN Web Docs en español](https://developer.mozilla.org/es/)
+
+**¡Gracias por completar el curso!**
+
 ## 👥 Elaboración
 
 Universidad Peruana de Ciencias Aplicadas
