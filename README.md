@@ -20,13 +20,15 @@ Repositorio con todo el código HTML y CSS del curso introductorio de desarrollo
 | `/completed-examples` | La solución terminada de cada lección. ¡Úsala solo si te trabas! |
 | `/scripts` | Guiones de los videos de cada lección. |
 
+## Estructura del repositorio
+
 ```text
 webdev-course-DevTech/
 |
-├── README.md
-├── course-plan.md
+├── README.md                   ← Documentación principal del repositorio
+├── course-plan.md              ← Plan completo del curso (artefacto principal)
 |
-├── starter-files/
+├── starter-files/              ← Código inicial para que los alumnos practiquen
 │   ├── leccion-01/
 │   ├── leccion-02/
 │   ├── leccion-03/
@@ -35,7 +37,7 @@ webdev-course-DevTech/
 │   ├── leccion-06/
 │   └── leccion-07/
 │
-├── completed-examples/
+├── completed-examples/         ← Código final y completo de cada lección
 │   ├── leccion-01/
 │   ├── leccion-02/
 │   ├── leccion-03/
@@ -44,7 +46,7 @@ webdev-course-DevTech/
 │   ├── leccion-06/
 │   └── leccion-07/
 |
-└── scripts/
+└── scripts/                    ← Guiones narrativos de cada video
     ├── leccion-01.script.md
     ├── leccion-02.script.md
     ├── leccion-03.script.md
