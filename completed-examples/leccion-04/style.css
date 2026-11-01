@@ -1,0 +1,18 @@
+body {
+  background-color: lightyellow;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h2 {
+  color: tomato;
+}
+
+.destacado {
+  font-size: 20px;
+  color: purple;
+}
