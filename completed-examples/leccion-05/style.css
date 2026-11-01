@@ -1,0 +1,31 @@
+body {
+  background-color: lightyellow;
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h2 {
+  color: tomato;
+  margin-top: 30px;
+}
+
+.destacado {
+  font-size: 20px;
+  color: purple;
+  background-color: white;
+  border: 2px solid purple;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+img {
+  border: 4px solid tomato;
+  border-radius: 15px;
+}
