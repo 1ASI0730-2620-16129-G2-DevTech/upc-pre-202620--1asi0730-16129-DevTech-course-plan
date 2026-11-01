@@ -44,6 +44,17 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 
 ### Lección 4: Dale estilo con CSS (9 minutos)
 
+- **Descripción**: Aprende qué es CSS y cómo conectarlo con tu HTML para darle color y estilo a tu página "Mis cosas favoritas": colores de texto y de fondo, tipo y tamaño de letra, y texto centrado. Se usa la analogía de la ropa: si HTML es el esqueleto, CSS es la ropa.
+- **Enlace**: [YouTube](LinkYoutube)
+- **Conceptos clave**:
+  - Conectar CSS con HTML: `<link rel="stylesheet" href="style.css">` dentro de `<head>`
+  - Forma de una regla: `selector { propiedad: valor; }`
+  - Colores: `color` (texto) y `background-color` (fondo), por nombre o por código como `#ff6347`
+  - Texto: `font-family`, `font-size` y `text-align`
+  - Clases: `class="destacado"` en HTML y `.destacado` en CSS para darle estilo a un solo elemento
+- **Práctica**: [Vamos a practicar!](https://jsfiddle.net/jaeby6k2/1/) 👈 **¡Ponle color a tu página!**
+  - ¿Prefieres otro editor? Copia el código de `starter-files/leccion-04` en [JSFiddle](https://jsfiddle.net/), [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
+
 
 ### Lección 5: Cajas, bordes y centrado (9 minutos)
 
