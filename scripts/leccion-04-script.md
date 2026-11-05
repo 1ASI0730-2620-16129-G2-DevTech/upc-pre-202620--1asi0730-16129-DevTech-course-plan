@@ -76,16 +76,18 @@ body {
 }
 
 h2 {
-  color: tomato;
+  color: crimson;
 }
 ```
 
 - `color` cambia el color del **texto**.
 - `background-color` cambia el color del **fondo**.
 
-Puedes escribir los colores por su nombre en inglés: `red`, `blue`, `tomato`, `purple`, `lightyellow`… También existen códigos como `#ff6347`, que es otra forma de escribir `tomato`. Con los códigos tienes millones de colores, pero para empezar los nombres son suficientes.
+Puedes escribir los colores por su nombre en inglés: `red`, `blue`, `crimson`, `purple`, `lightyellow`… También existen códigos como `#dc143c`, que es otra forma de escribir `crimson`. Con los códigos tienes millones de colores, pero para empezar los nombres son suficientes.
 
 Como pusimos el fondo en `body`, se pinta **toda** la página.
+
+Un consejo: elige colores que **se lean bien** sobre el fondo. Un texto oscuro sobre un fondo claro se lee fácil; un texto amarillo sobre un fondo blanco casi no se ve. ¡Tu página tiene que poder leerla todo el mundo!
 
 ---
 
@@ -106,7 +108,7 @@ h1 {
 ```
 
 - `font-family` elige el **tipo de letra**. Ponemos dos opciones: si la computadora no tiene Arial, usa cualquier letra parecida (`sans-serif`).
-- `font-size` cambia el **tamaño** de la letra, por ejemplo `font-size: 20px;`. `px` significa píxeles, los puntitos de tu pantalla.
+- `font-size` cambia el **tamaño** de la letra, por ejemplo `font-size: 20px;`. `px` significa píxeles, una medida de tamaño en la pantalla.
 - `text-align: center;` **centra el texto**.
 
 Una regla puede tener varias propiedades: solo escribe una debajo de otra, cada una con su `;`.
@@ -136,7 +138,20 @@ El punto le dice al CSS: "esto no es una etiqueta, es una clase". Así solo camb
 
 ## Práctica guiada (7:30 – 8:30)
 
-Abre el enlace de práctica que está en la descripción del video, en el editor en línea que prefieras. Los archivos de inicio (`starter-files/leccion-04/`) son dos: `index.html`, con tu página de la lección anterior y el `<link>` ya puesto, y `style.css`, que trae la regla de `body` hecha como ejemplo y 3 pasos marcados en comentarios:
+Abre el enlace de práctica que está en la descripción del video, en el editor en línea que prefieras. Los archivos de inicio (`starter-files/leccion-04/`) son dos: `index.html`, con tu página de la lección anterior y el `<link>` ya puesto, y `style.css`, que trae la regla de `body` hecha como ejemplo y 3 pasos marcados en comentarios.
+
+¿Qué es un **comentario**? Es una nota para ti que el navegador **ignora**: no cambia nada en la página. En CSS, todo lo que está entre `/*` y `*/` es un comentario:
+
+```css
+/* Esto es un comentario: el navegador no lo lee */
+h1 {
+  color: darkblue;
+}
+```
+
+En HTML los comentarios se escriben entre `<!--` y `-->`. Escribe tu código **fuera** de los comentarios, en las líneas vacías debajo de cada paso, y no borres el `*/` de cierre: si lo borras, todo lo que venga después se vuelve comentario y deja de funcionar.
+
+Los pasos son:
 
 1. Escribe una regla para `h1` que cambie su color y lo centre.
 2. Escribe una regla para que los `h2` tengan otro color.
