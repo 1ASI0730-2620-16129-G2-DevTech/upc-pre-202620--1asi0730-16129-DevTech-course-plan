@@ -59,7 +59,7 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 ### Lección 5: Cajas, bordes y centrado (10 minutos)
 
 - **Descripción**: Descubre que cada elemento de tu página es una caja y aprende a darle espacio, bordes y esquinas redondeadas, y a centrar tu página "Mis cosas favoritas" en una columna ordenada que se vea bien también en el celular. Se usa la analogía de un cuadro en la pared: la foto es el contenido, el cartón es el relleno, el marco es el borde y el espacio en la pared es el margen.
-- **Enlace**: [▶️ Ver la lección](LinkYoutube)
+- **Enlace**: [▶️ Ver la lección](https://youtu.be/AgF1RJGDLEE)
 - **Conceptos clave**:
   - Modelo de caja: contenido, `padding`, `border` y `margin`, de adentro hacia afuera
   - Bordes: `border: 2px solid purple;` (grosor, estilo y color)
