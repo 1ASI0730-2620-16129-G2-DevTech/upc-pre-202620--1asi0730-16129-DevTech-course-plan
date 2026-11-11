@@ -48,7 +48,22 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 ### Lección 5: Cajas, bordes y centrado (9 minutos)
 
 
-### Lección 6: Proyecto final: tu página de perfil (12 minutos)
+
+### Lección 6: Proyecto final: tu página de perfil (12 minutos)**
+
+- **Descripción**: Integra todo lo aprendido sobre HTML y CSS para crear tu propia página de perfil personal. Agrega tu fotografía, nombre, una descripción sobre ti, tus gustos, enlaces favoritos y una frase que te represente. Organiza el contenido en secciones y tarjetas, utilizando etiquetas semánticas y aplicando estilos para personalizar el diseño de tu página.
+- **Enlace**: [YouTube]\(LinkYoutube)
+- **Conceptos clave**:
+  - Etiquetas semánticas: `<header>`, `<main>`, `<section>`, `<footer>`
+  - Títulos y párrafos: `<h1>` a `<h6>`, `<p>`
+  - Listas: `<ul>`, `<ol>`, `<li>`
+  - Imágenes: `<img src="..." alt="...">`
+  - Enlaces: `<a href="...">texto</a>`
+  - Organización del contenido mediante secciones y tarjetas
+  - Personalización con CSS: colores, fuentes, bordes, márgenes y espacios
+  - **Práctica**: [Vamos a practicar!]\(LinkPractica) 👈 **¡No necesitas instalar nada!**
+  - ¿Prefieres otro editor? Copia el código de \`starter-files/leccion-06\` en [JSFiddle]\([https://jsfiddle.net/](https://jsfiddle.net/)), [CodePen]\([https://codepen.io/pen/](https://codepen.io/pen/)) o [Replit]\([https://replit.com/](https://replit.com/)).
+
 
 
 ### Lección 7: Errores comunes y próximos pasos (6 minutos)
