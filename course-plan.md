@@ -20,7 +20,7 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 ### Lección 2: El esqueleto de una página (9 minutos)
 
 - **Descripción**: Aprende qué son las etiquetas, los elementos y los atributos, y arma la estructura básica que tiene toda página web. Se usa la analogía de un sándwich para entender cómo se abren y se cierran las etiquetas.
-- **Enlace**: [YouTube](LinkYoutube)
+- **Enlace**: [YouTube](https://youtu.be/kZWn6u8JLGI)
 - **Conceptos clave**:
   - Estructura básica: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<title>`
   - Etiqueta de apertura `<p>`, de cierre `</p>`, y etiquetas vacías como `<img>`
@@ -32,7 +32,7 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 ### Lección 3: Llenando la página (10 minutos)
 
 - **Descripción**: Agrega contenido a tu página creando "Mis cosas favoritas": títulos de distintos tamaños, párrafos, listas con puntos y numeradas, una imagen desde internet y un enlace a otro sitio.
-- **Enlace**: [YouTube](LinkYoutube)
+- **Enlace**: [YouTube](https://youtu.be/fqDidSU5MJg)
 - **Conceptos clave**:
   - Títulos y párrafos: `<h1>` a `<h6>`, `<p>`
   - Listas: `<ul>`, `<ol>`, `<li>`
