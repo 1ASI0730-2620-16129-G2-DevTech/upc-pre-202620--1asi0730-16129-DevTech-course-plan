@@ -68,8 +68,19 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 - **Práctica**: [¡Vamos a practicar!](https://jsfiddle.net/jaeby6k2/1/) 👈 **¡Ponle color a tu página!**
   - ¿Prefieres otro editor? Copia el código de [`starter-files/leccion-04`](https://github.com/1ASI0730-2620-16129-G2-DevTech/upc-pre-202620--1asi0730-16129-DevTech-course-plan/tree/main/starter-files/leccion-04) en [JSFiddle](https://jsfiddle.net/), [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
 
-### Lección 5: Cajas, bordes y centrado (9 minutos)
+### Lección 5: Cajas, bordes y centrado (10 minutos)
 
+- **Descripción**: Descubre que cada elemento de tu página es una caja y aprende a darle espacio, bordes y esquinas redondeadas, y a centrar tu página "Mis cosas favoritas" en una columna ordenada que se vea bien también en el celular. Se usa la analogía de un cuadro en la pared: la foto es el contenido, el cartón es el relleno, el marco es el borde y el espacio en la pared es el margen.
+- **Enlace**: [▶️ Ver la lección](https://youtu.be/AgF1RJGDLEE)
+- **Conceptos clave**:
+  - Modelo de caja: contenido, `padding`, `border` y `margin`, de adentro hacia afuera
+  - Bordes: `border: 2px solid purple;` (grosor, estilo y color)
+  - Espacios: `padding` (adentro del borde) y `margin` (afuera del borde), como `margin-top`
+  - Esquinas redondeadas: `border-radius`
+  - Centrar la página: `max-width: 600px;` y `margin: 0 auto;`
+  - Imágenes que se adaptan al celular: `max-width: 100%;` en `img`
+- **Práctica**: [¡Vamos a practicar!](https://jsfiddle.net/1oa6ybwg/) 👈 **¡Ordena tu página!**
+  - ¿Prefieres otro editor? Copia el código de [`starter-files/leccion-05`](https://github.com/1ASI0730-2620-16129-G2-DevTech/upc-pre-202620--1asi0730-16129-DevTech-course-plan/tree/main/starter-files/leccion-05) en [JSFiddle](https://jsfiddle.net/), [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
 
 
 ### Lección 6: Proyecto final: tu página de perfil (12 minutos)
@@ -102,6 +113,7 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 | Lección | Actividad | Empezar a programar |
 |---------|-----------|---------------------|
 | 4 | Ponle color a tu página | [JSFiddle](https://jsfiddle.net/jaeby6k2/1/) |
+| 5 | Ordena tu página | [JSFiddle](https://jsfiddle.net/1oa6ybwg/) |
 
 - **Para seguir aprendiendo**: [MDN Web Docs en español](https://developer.mozilla.org/es/)
 

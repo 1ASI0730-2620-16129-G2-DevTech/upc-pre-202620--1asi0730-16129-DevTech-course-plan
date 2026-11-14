@@ -1,0 +1,34 @@
+/* Si tu editor en línea tiene un panel CSS separado, copia este archivo en ese panel */
+/* Estas reglas son de la lección 4. Ahora agrégales cajas, bordes y centrado */
+
+body {
+  background-color: lightyellow;
+  font-family: Arial, sans-serif;
+  /* 4. (Último paso) Centra la página: agrega max-width: 600px; margin: 0 auto; y padding: 20px; */
+
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h2 {
+  color: crimson;
+  /* 2. Separa cada sección con espacio arriba. Ejemplo: margin-top: 30px; */
+
+}
+
+.destacado {
+  font-size: 20px;
+  color: purple;
+  /* 1. Conviértelo en una tarjeta: agrega background-color: white;
+        un borde (border: 2px solid purple;), padding y border-radius */
+
+}
+
+/* 3. Escribe una regla para img con un borde (border), esquinas redondeadas (border-radius)
+      y max-width: 100%; para que la imagen no se salga de la página en un celular */
+
+
+/* Pista: no olvides el px. Se escribe padding: 15px; y no padding: 15; */
