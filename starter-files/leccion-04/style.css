@@ -1,0 +1,20 @@
+/* Si tu editor en línea tiene un panel CSS separado, copia este archivo en ese panel */
+
+/* Ejemplo: esta regla ya está hecha. Cambia el fondo y el tipo de letra de toda la página.
+   ¡Prueba a cambiar lightyellow por otro color, como lightblue! */
+body {
+  background-color: lightyellow;
+  font-family: Arial, sans-serif;
+}
+
+/* 1. Escribe una regla para h1 que cambie su color (color) y lo centre (text-align: center;) */
+
+
+/* 2. Escribe una regla para h2 que les dé otro color */
+
+
+/* 3. Escribe una regla .destacado (¡con el punto!) para que el primer párrafo
+      se vea más grande. Ejemplo: font-size: 20px; */
+
+
+/* Pista: cada línea termina con ; y cada regla se cierra con } */

@@ -56,6 +56,17 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 
 ### Lección 4: Dale estilo con CSS (9 minutos)
 
+- **Descripción**: Aprende qué es CSS y cómo conectarlo con tu HTML para darle color y estilo a tu página "Mis cosas favoritas": colores de texto y de fondo, tipo y tamaño de letra, y texto centrado. Se usa la analogía de la ropa: si HTML es el esqueleto, CSS es la ropa.
+- **Enlace**: [▶️ Ver la lección](https://youtu.be/XWjB9rQ_3_o)
+- **Conceptos clave**:
+  - Conectar CSS con HTML: `<link rel="stylesheet" href="style.css">` dentro de `<head>`
+  - Forma de una regla: `selector { propiedad: valor; }`
+  - Colores: `color` (texto) y `background-color` (fondo), por nombre o por código como `#dc143c`, eligiendo colores que se lean bien sobre el fondo
+  - Texto: `font-family`, `font-size` y `text-align`
+  - Clases: `class="destacado"` en HTML y `.destacado` en CSS para darle estilo a un solo elemento
+  - Comentarios: `/* ... */` en CSS y `<!-- ... -->` en HTML son notas que el navegador ignora
+- **Práctica**: [¡Vamos a practicar!](https://jsfiddle.net/jaeby6k2/1/) 👈 **¡Ponle color a tu página!**
+  - ¿Prefieres otro editor? Copia el código de [`starter-files/leccion-04`](https://github.com/1ASI0730-2620-16129-G2-DevTech/upc-pre-202620--1asi0730-16129-DevTech-course-plan/tree/main/starter-files/leccion-04) en [JSFiddle](https://jsfiddle.net/), [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
 
 ### Lección 5: Cajas, bordes y centrado (9 minutos)
 
@@ -86,6 +97,12 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 
 - **Código Fuente Completo**: [https://github.com/1ASI0730-2620-16129-G2-DevTech/upc-pre-202620--1asi0730-16129-DevTech-course-plan/tree/main](https://github.com/1ASI0730-2620-16129-G2-DevTech/upc-pre-202620--1asi0730-16129-DevTech-course-plan/tree/main)
 - **Archivos de práctica**: el código de inicio de cada lección está en la carpeta `starter-files` del repositorio y la solución en `completed-examples`. Úsalos si prefieres trabajar en CodePen o Replit.
+- **Todas las actividades prácticas**:
+
+| Lección | Actividad | Empezar a programar |
+|---------|-----------|---------------------|
+| 4 | Ponle color a tu página | [JSFiddle](https://jsfiddle.net/jaeby6k2/1/) |
+
 - **Para seguir aprendiendo**: [MDN Web Docs en español](https://developer.mozilla.org/es/)
 
 **¡Gracias por completar el curso!**
