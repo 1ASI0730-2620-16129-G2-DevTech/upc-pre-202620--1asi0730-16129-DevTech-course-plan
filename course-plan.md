@@ -102,6 +102,22 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 
 ### Lección 7: Errores comunes y próximos pasos (6 minutos)
 
+- **Descripción**: Revisa los errores más comunes de HTML y CSS aplicados a la página de perfil que construiste en la Lección 6. Aprende a encontrar y corregir problemas paso a paso, comprueba tu proyecto final y descubre cómo seguir aprendiendo después del curso.
+- **Enlace**: [YouTube](https://youtu.be/EJeZEE86Zss)
+- **Conceptos clave**:
+  - Etiquetas de apertura y cierre, anidación y organización de secciones.
+  - Imágenes y enlaces: revisar `src`, `alt` y `href`.
+  - Conexión de CSS y coincidencia entre `class="tarjeta"` y `.tarjeta`.
+  - Sintaxis CSS: dos puntos `:`, punto y coma `;`, llaves `{ }` y comentarios `/* ... */`.
+  - Unidades y espacios: `padding: 16px;`, diferencias entre `padding` y `margin`, y centrado de la página.
+  - Revisión paso a paso: identificar el problema, hacer un cambio y comprobar el resultado.
+  - Próximos pasos: mejorar el perfil, practicar diseños adaptables y continuar con Flexbox, Grid y JavaScript.
+- **Práctica**: [¡Vamos a practicar!](https://jsfiddle.net/GabrielRamirez/v53gax0r/) 👈 **¡No necesitas instalar nada!**
+  - Corrige los tres errores de la regla CSS: el selector de clase, los dos puntos de `color` y la unidad de `padding`.
+  - Comprueba que las tarjetas tengan texto morado y 16 píxeles de espacio interior.
+  - ¿Prefieres otro editor? Copia el código de `starter-files/leccion-07` en [JSFiddle](https://jsfiddle.net/), [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
+  - Si tu editor tiene paneles separados, copia el contenido de `<body>` en HTML y el archivo `style.css` en CSS.
+  - Al terminar, compara con `completed-examples/leccion-07` y aplica la revisión a tu perfil personal.
 
 
 ## Recursos Adicionales
