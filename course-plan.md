@@ -16,6 +16,18 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 ## Secuencia de Lecciones
 ### Lección 1: ¿Qué es un sitio web? (6 minutos)
 
+- **Descripción**: Descubre qué es un sitio web, en qué se diferencia de una página web y cómo trabajan el navegador y el servidor. Conoce las funciones de HTML, CSS y JavaScript, escribe tu primer código y aprende a evitar cuatro errores comunes al comenzar.
+- **Enlace**: [Youtube](https://youtu.be/yLvqD2b4_Uw/)
+- **Conceptos clave**:
+  - Un sitio web reúne páginas relacionadas, como un libro reúne sus páginas.
+  - El navegador solicita archivos al servidor y los interpreta para mostrar la página.
+  - HTML organiza el contenido, CSS define la apariencia y JavaScript agrega interactividad.
+  - `<h1>` representa un título principal y `<p>` representa un párrafo.
+  - HTML es un lenguaje de marcado. Puedes consultar documentación, revisar los detalles del código y aprender paso a paso sin memorizarlo todo.
+- **Práctica**: [Vamos a practicar](https://jsfiddle.net/GabrielRamirez/zca381ob/) 👈 **¡No necesitas instalar nada!**
+  - Cambia el título por tu nombre o el nombre de tu página, personaliza el primer párrafo y agrega un segundo párrafo.
+  - ¿Prefieres otro editor? Copia el código de `starter-files/leccion-01` en [JSFiddle](https://jsfiddle.net/), [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
+  - Si el editor tiene un panel HTML separado, copia solo el contenido de `<body>`. Si utiliza un archivo `index.html` completo, conserva toda la estructura.
 
 ### Lección 2: El esqueleto de una página (9 minutos)
 
