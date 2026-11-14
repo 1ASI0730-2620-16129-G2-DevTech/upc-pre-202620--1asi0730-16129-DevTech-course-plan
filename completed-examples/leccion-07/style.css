@@ -1,0 +1,60 @@
+/* Lección 7: solución.
+   Si tu editor tiene un panel CSS separado, copia este archivo allí. */
+
+body {
+  background-color: #f3e8ff;
+  font-family: Verdana, sans-serif;
+  color: #333333;
+  margin: 0;
+}
+
+header {
+  background-color: #7c3aed;
+  color: white;
+  text-align: center;
+  padding: 30px 20px;
+}
+
+header img {
+  border-radius: 50%;
+}
+
+img {
+  max-width: 100%;
+}
+
+.subtitulo {
+  font-style: italic;
+}
+
+main {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  background-color: white;
+  border: 2px solid #c4b5fd;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+a {
+  color: #7c3aed;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+}
+
+/* La clase se selecciona con un punto.
+   La propiedad y el valor se separan con dos puntos.
+   El relleno utiliza una unidad válida: px. */
+
+.tarjeta {
+  color: purple;
+  padding: 16px;
+}
