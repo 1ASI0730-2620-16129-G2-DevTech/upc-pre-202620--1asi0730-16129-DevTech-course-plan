@@ -51,7 +51,7 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
   - Imágenes: `<img src="..." alt="...">`
   - Enlaces: `<a href="...">texto</a>`
   - El atributo `alt` en imágenes es importante para la accesibilidad
-- **Práctica**: [Vamos a practicar!](https://jsfiddle.net/czg03pou/4/) 👈 **¡Empieza al instante!**
+- **Práctica**: [Vamos a practicar!](https://jsfiddle.net/85efub4s/) 👈 **¡Empieza al instante!**
   - ¿Prefieres otro editor? Copia el código de `starter-files/leccion-03` en [JSFiddle](https://jsfiddle.net/), [CodePen](https://codepen.io/pen/) o [Replit](https://replit.com/).
 
 ### Lección 4: Dale estilo con CSS (9 minutos)
@@ -128,8 +128,13 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 
 | Lección | Actividad | Empezar a programar |
 |---------|-----------|---------------------|
+| 1 | Mi primer "¡Hola, mundo!" | [JSFiddle](https://jsfiddle.net/GabrielRamirez/zca381ob/) |
+| 2 | Esqueleto de mi primera página | [JSFiddle](https://jsfiddle.net/czg03pou/3/) |
+| 3 | Página "Mis cosas favoritas" | [JSFiddle](https://jsfiddle.net/85efub4s/) |
 | 4 | Ponle color a tu página | [JSFiddle](https://jsfiddle.net/jaeby6k2/1/) |
 | 5 | Ordena tu página | [JSFiddle](https://jsfiddle.net/1oa6ybwg/) |
+| 6 | Página de perfil | [JSFiddle](https://jsfiddle.net/arianaperez08/vh12jr5d/1/) |
+| 7 | Encuentra los errores | [JSFiddle](https://jsfiddle.net/GabrielRamirez/v53gax0r/) |
 
 - **Para seguir aprendiendo**: [MDN Web Docs en español](https://developer.mozilla.org/es/)
 
@@ -138,13 +143,19 @@ Si prefieres otro editor, también puedes usar [CodePen](https://codepen.io/pen/
 ## 👥 Elaboración
 
 Universidad Peruana de Ciencias Aplicadas
+
 Carrera de Ingeniería de Software
+
 Período 202620
+
 1ASI0730 Aplicaciones Web
+
 NRC 16129
 
 **Nombre del equipo**: DevTech
+
 **Líder del equipo**: Pérez Vásquez, Ariana Valeria
+
 **Integrantes del equipo**:
 - Pérez Vásquez, Ariana Valeria (u20241D338)
 - Ramirez Gutierrez, Gabriel (u202416053)
