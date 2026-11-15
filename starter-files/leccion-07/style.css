@@ -1,0 +1,74 @@
+/* Lección 7: Errores comunes y próximos pasos.
+   Si tu editor tiene un panel CSS separado, copia este archivo allí.
+
+   Objetivo: corregir TRES errores en la última regla.
+   No necesitas cambiar el HTML ni las reglas que ya funcionan.
+   Haz un solo cambio por vez y comprueba la vista previa. */
+
+body {
+  background-color: #f3e8ff;
+  font-family: Verdana, sans-serif;
+  color: #333333;
+  margin: 0;
+}
+
+header {
+  background-color: #7c3aed;
+  color: white;
+  text-align: center;
+  padding: 30px 20px;
+}
+
+header img {
+  border-radius: 50%;
+}
+
+img {
+  max-width: 100%;
+}
+
+.subtitulo {
+  font-style: italic;
+}
+
+main {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  background-color: white;
+  border: 2px solid #c4b5fd;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+a {
+  color: #7c3aed;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+}
+
+/* PRÁCTICA
+   1. El HTML usa class="tarjeta". ¿Qué signo necesita el selector?
+   2. Revisa el separador entre la propiedad color y su valor.
+   3. El relleno debe ser de 16 píxeles. Completa su unidad.
+
+   Escribe los cambios en la regla de abajo, fuera de este comentario. */
+
+tarjeta {
+  color purple;
+  padding: 16;
+}
+
+/* COMPROBACIÓN
+   - El texto de las tarjetas debe verse morado.
+   - Debe haber 16 píxeles de espacio entre el contenido y el borde.
+   - Comprueba también las otras tarjetas: comparten la misma clase.
+   - Haz más estrecha la vista previa y revisa la lectura.
+   - Prueba el enlace y conserva una copia de tu HTML y CSS. */
